@@ -45,4 +45,4 @@ askGoal()
 
 print("\n\n\nUser`s team name: ", userTeamName)
 print("Points: ", totalPoints)
-print("Highest number of goals scored by user`s team in a single match: ", highestGoal)
+print("Highest number of goals scored by user`s team in a single match:  ", highestGoal)
